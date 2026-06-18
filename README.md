@@ -1,0 +1,1 @@
+# Python-Notification-Router\n\n## Overview\nEnterprise-grade notification router implementation in Python.\n\n## Quick Start (1-Click Build)\n\n```bash\ngit clone https://github.com/skylerblue333/Python-Notification-Router.git\ncd Python-Notification-Router\n# Build instructions depend on the language\n```\n

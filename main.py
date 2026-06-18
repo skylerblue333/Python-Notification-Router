@@ -1,0 +1,1 @@
+print('Starting Python-Notification-Router service...')\n
